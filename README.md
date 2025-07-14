@@ -127,3 +127,5 @@ Use only verified onion URLs, double-checking them for legitimacy.
 
 Navigating the darknet requires a dedication to security and caution. By following this guide, you'll be well-prepared. Remember, engage in any market activities at your own risk, and *be aware of local laws and regulations*.
 Plase contribute and add stars to this repo.
+
+Update:  14.07.2025 link is functioning and active
